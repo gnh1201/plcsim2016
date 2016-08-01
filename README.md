@@ -9,3 +9,6 @@ A simple PLC Simulation using C++/MFC
 - Copy to data files in PLCSim2016 Folder.
 - Load Ladder file.
 - Simulate it!
+
+# Applies
+- Stuxnet (PLC Disturbter) Security Testing.
