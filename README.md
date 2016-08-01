@@ -1,5 +1,5 @@
 # plcsim2016
-A simple PLC Simulation using C++/MFC (for PLC Disturbing Security Test)
+A simple PLC Simulation using C++/MFC
 
 # Screenshot
 ![Screenshot](https://raw.githubusercontent.com/gnh1201/plcsim2016/master/screenshot.png)
