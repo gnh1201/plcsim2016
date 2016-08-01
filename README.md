@@ -12,3 +12,6 @@ A simple PLC Simulation using C++/MFC
 
 # Applies
 - Stuxnet (PLC Disturbter) Security Testing.
+
+# Contact
+- gnh1201@gmail.com (Namhyeon Go)
