@@ -24,3 +24,5 @@ A simple PLC Simulation using C++/MFC
 해당 프로그램을 급히 만들어서 내놓습니다.
 
 귀사의 정보보안 향상에 기여가 되었으면 좋겠습니다. 감사합니다.
+
+문의: gnh1201@gmail.com / 전화: 1599-4612
