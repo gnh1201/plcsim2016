@@ -1,8 +1,7 @@
 # plcsim2016
-A simple PLC Simulation using C++/MFC
+The simple PLC Simulation using C++/MFC.
 
-## Screenshot
-![Screenshot](https://raw.githubusercontent.com/gnh1201/plcsim2016/master/screenshot.png)
+This repository is a simulator created around August 2016 using C++/MFC to understand the basic principles of PLC operation, proposed for ICS and SCADA security projects (e.g., in response to Stuxnet).
 
 ## How to use?
 - Make Folder C://PLCSim2016/
@@ -10,8 +9,9 @@ A simple PLC Simulation using C++/MFC
 - Load Ladder file.
 - Simulate it!
 
-## Why use?
-- Security testing. e.g. Stuxnet (PLC disturbter)
+## Screenshots
+![Screenshot](https://raw.githubusercontent.com/gnh1201/plcsim2016/master/screenshot.png)
 
-# Contact
-- Namhyeon Go <abuse@catswords.net>
+# Contact me
+- ActivityPub [@catswords_oss@catswords.social](https://catswords.social/@catswords_oss)
+- abuse@catswords.net
