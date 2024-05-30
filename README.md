@@ -1,7 +1,7 @@
 # plcsim2016
 The simple PLC Simulation using C++/MFC.
 
-This repository is a simulator created around August 2016 using C++/MFC to understand the basic principles of PLC operation, proposed for ICS and SCADA security projects (e.g., in response to Stuxnet).
+This repository contains a simulator created around August 2016 using C++/MFC to understand the basic principles of PLC operation. It was developed to propose collaboration with existing companies on the topic of ICS and SCADA security (e.g., responding to Stuxnet)
 
 ## How to use?
 - Make Folder C://PLCSim2016/
